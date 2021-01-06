@@ -1,0 +1,90 @@
+body{
+    margin: 0 auto;
+    align-self: auto;
+}
+nav{
+    padding-left: 15px;
+    text-align: left;
+    display: block;
+    background-color: gray;
+    height: 100px;
+}
+
+.navitem{
+    display: inline-block;
+    background-color: purple;
+    width: 200px;
+    color: white;
+    text-align: center;
+    padding: 25px;
+    height: 50 px;
+}
+.brucethedog{
+    padding-left: 15px;
+    position: absolute;
+    height: 200px;
+    width: 500px;
+}
+.leftbox {
+    position: absolute;
+    float: left;
+    height: 350px;
+    background-color:rgba(0, 0, 255, 0.37);
+    width: 500px;
+    text-align: auto;
+    margin-left: 15px;
+    margin-top: 300px;
+    font-size: 200px;   
+}
+    .rightbox{
+    position: left-absolute;
+    display: block;
+    float: right;
+    background-color: greenyellow;
+    margin-right: 15px;
+    padding-left:  1000px;
+    height: 1200px;
+    width: 510px;
+    text-align: center;
+}
+
+h2{
+    align-content: center;
+    position: relative;
+    padding-left: 800px;
+    padding-top:10px;
+}
+.photo1{
+
+    float: right;
+    position: absolute;
+    padding-left: 1000px;
+    padding-top: 350px;
+}
+
+.block_element{
+    color: gray;
+    display: block;
+}
+p{text-align:left;
+padding-right:200px;
+padding-left: 200px;
+}
+.p{
+    text-align: left;
+    text-indent:0px ;
+    padding-left:  900px;
+    padding-right: 800px;
+}
+.photo2{
+
+   width: 10px;
+    image-orientation: 50px;
+    height: 10px;
+    
+}
+.photobox{
+width: 200px;
+height: 200px;
+}
+
